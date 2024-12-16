@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "ru.normno.mycustomloadinganimations"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "ru.normno.mycustomloadinganimations"
